@@ -11,8 +11,8 @@
 
 •	Pronouns: ***She/Her***<br>
 •	I’m currently developing ML models and expanding my knowledge in databases and data visualization. <br>
-•	Proficient in **Python**, **SQL**, **R**, and **Machine Learning**. <br>
-•	I’m currently learning **Power BI** and advanced ML techniques. <br>
+•	Proficient in **Python**, **SQL**, **R**, and **JAVA**. <br>
+•	I’m currently learning **Power BI** and **Spark**. <br>
 •	I’m looking to collaborate on Open-Source contributions and data-driven projects. <br>
 •	Reach me: [`Click To Mail!`](mailto:anjaligupta291001@gmail.com) or copy **`anjaligupta291001@gmail.com`**<br> 
 •	Fun fact: There's always more to learn, and I’m just getting started!<br> <br>
